@@ -2,6 +2,8 @@ import 'package:flutter/material.dart';
 import 'package:nfc_manager/nfc_manager.dart';
 import 'package:intl/intl.dart';
 
+// Fungsi utama, entry point aplikasi
+
 void main() {
   runApp(MyApp());
 }
